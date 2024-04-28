@@ -73,4 +73,8 @@ dependencies {
     implementation("androidx.activity:activity-ktx:1.9.0")
     implementation("androidx.fragment:fragment-ktx:1.6.2")
     implementation("io.coil-kt:coil-compose:2.5.0")
+
+    implementation ("androidx.navigation:navigation-compose:2.4.0-alpha10")
+
+
 }
